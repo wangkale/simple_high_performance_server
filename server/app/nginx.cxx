@@ -1,10 +1,5 @@
 ﻿
-//整个程序入口函数放这里
-/*
-公众号：程序员速成     q群：716480601
-王健伟老师 《Linux C++通讯架构实战》
-商业级质量的代码，完整的项目，帮你提薪至少10K
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
